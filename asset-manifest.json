@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/location-simulator/static/js/main.d50b7f6a.js",
+    "index.html": "/location-simulator/index.html",
+    "main.d50b7f6a.js.map": "/location-simulator/static/js/main.d50b7f6a.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.d50b7f6a.js"
+  ]
+}
