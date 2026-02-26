@@ -3,6 +3,7 @@
 **CS 6604 — Mobile & Distributed Computing — HW 1**
 
 An interactive web-based simulator demonstrating hierarchical location management schemes in mobile networks. Built with React.
+### live at `https:/TSanf0rd.github.io/location-simulator`
 
 ## Features
 
@@ -45,13 +46,9 @@ npm run build
 # Deploy to GitHub Pages
 npm run deploy
 ```
+## GitHub Pages
 
-## Deployment to GitHub Pages
-
-1. Edit `package.json` and replace `YOUR_USERNAME` in the `homepage` field with your GitHub username
-2. Run `npm run deploy`
-3. Go to your repo Settings → Pages → set source to `gh-pages` branch
-4. Your simulator will be live at `https://YOUR_USERNAME.github.io/location-simulator`
+Simulator will be live at `https:/TSanf0rd.github.io/location-simulator`
 
 ## Key Concepts
 
@@ -60,6 +57,5 @@ npm run deploy
 - **Forwarding Pointer**: A shortcut pointer set at a specific tree level to avoid full tree traversal during updates
 - **Replication**: Copying location data to nodes that frequently query a user, reducing search cost
 
-## Screenshots
 
 Run the simulator and use the Auto-Simulate button to watch the system in action with randomized calls and movements.
