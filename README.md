@@ -4,6 +4,7 @@
 
 An interactive web-based simulator demonstrating hierarchical location management schemes in mobile networks. Built with React.
 ### live at `https:/TSanf0rd.github.io/location-simulator`
+### Collaborators: Tyler Sanford and Nooshin Pourtalebihoomadin
 
 ## Features
 
